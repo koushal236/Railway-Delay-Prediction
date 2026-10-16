@@ -1,0 +1,30 @@
+{
+  "Subalpine High-Elevation Profile (Near Ridgeline)": {
+    "Elevation": 3150,
+    "Aspect": 140,
+    "Slope": 15,
+    "Horizontal_Distance_To_Hydrology": 250,
+    "Vertical_Distance_To_Hydrology": 45,
+    "Horizontal_Distance_To_Roadways": 2800,
+    "Hillshade_9am": 235,
+    "Hillshade_Noon": 238,
+    "Hillshade_3pm": 132,
+    "Horizontal_Distance_To_Fire_Points": 1900,
+    "Wilderness_Area": 1,
+    "Soil_Type": 29
+  },
+  "Montane Valley Profile (Low Elevation / Riparian)": {
+    "Elevation": 2450,
+    "Aspect": 45,
+    "Slope": 8,
+    "Horizontal_Distance_To_Hydrology": 60,
+    "Vertical_Distance_To_Hydrology": 5,
+    "Horizontal_Distance_To_Roadways": 1200,
+    "Hillshade_9am": 220,
+    "Hillshade_Noon": 225,
+    "Hillshade_3pm": 140,
+    "Horizontal_Distance_To_Fire_Points": 1100,
+    "Wilderness_Area": 3,
+    "Soil_Type": 10
+  }
+}
