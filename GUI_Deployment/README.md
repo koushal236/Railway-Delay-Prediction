@@ -1,5 +1,5 @@
 # 🚆 Railway Delay & Ecological ML Intelligence Platform
-## 23CSE301 Machine Learning Capstone — Unified Web Application & Public Deployment Suite
+## 23CSE301 Machine Learning Capstone — Unified Web Application & Public Deployment Suites
 
 **Course:** 23CSE301 Machine Learning Capstone  
 **Reference Architecture:** Clean Academic Engineering GUI (inspired by [tensortitans.streamlit.app](https://tensortitans.streamlit.app/))  
