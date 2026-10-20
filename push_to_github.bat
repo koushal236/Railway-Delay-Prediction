@@ -21,7 +21,7 @@ if %ERRORLEVEL% EQU 0 (
     echo ======================================================================
     echo SUCCESS: Project pushed successfully to GitHub!
     echo View repository: https://github.com/koushal236/Railway-Delay-Prediction
-    echo ======================================================================
+    echo =======================================================================
 ) else (
     echo.
     echo ======================================================================
