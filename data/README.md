@@ -1,6 +1,6 @@
 # Dataset Documentation & Integrity Guide
 
-This directory houses the primary empirical datasets utilized across the Machine Learning Capstone workflows:
+This directory houses the primary empirical datasets utilized across the Machine Learning Capstone workflow:
 
 ---
 
