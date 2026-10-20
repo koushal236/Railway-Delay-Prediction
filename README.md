@@ -1,7 +1,7 @@
 # 🚆 Railway Delay Prediction & Ecological ML Intelligence Platform
 ## 23CSE301 Machine Learning Capstone Project
 
-A comprehensive, production-grade Machine Learning system integrating **Supervised Classification**, **Supervised Regression**, and **Unsupervised Clustering**, accompanied by reproducible Jupyter research notebooks, serialized model pipelines, publication-quality visualizations, and an interactive **Streamlit Web Application** ready for public cloud deployment.
+A comprehensive, production-grade Machine Learning system integrating **Supervised Classification**, **Supervised Regression**, and **Unsupervised Clustering**, accompanied by reproducible Jupyter research notebook, serialized model pipelines, publication-quality visualizations, and an interactive **Streamlit Web Application** ready for public cloud deployment.
 
 ---
 
