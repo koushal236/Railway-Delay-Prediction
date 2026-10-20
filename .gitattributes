@@ -1,5 +1,5 @@
 # Git Large File Storage (LFS) configuration
-# Only track files exceeding GitHub's 100 MB limit with LFS.
+# Only track files exceeding GitHub's 100 MB limit LFS.
 # IR_regression_dataset.csv (22.3 MB) and .joblib models (<400 KB) are regular Git files so they are included in GitHub ZIP downloads!
 
 data/ir_train_siddu.csv filter=lfs diff=lfs merge=lfs -text
